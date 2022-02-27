@@ -20,7 +20,6 @@ function App() {
         draggable: true,
         progress: undefined,
       });
-
       return;
     }
 
